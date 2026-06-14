@@ -1,0 +1,6 @@
+name=input("Enter Name: ")
+age=int(input("Enter age: "))
+favoriteTechnology=input("Enter the favorite Technology: ")
+print("Hello",name)
+print("You are ",age,"years old")
+print("Your favorite technology is",favoriteTechnology)

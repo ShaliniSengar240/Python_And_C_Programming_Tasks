@@ -3,7 +3,7 @@
 ## Intern Details
 
 **Name:** Shalini Sengar  
-**Date:** June 2026
+**Date:** 14 June 2026
 
 ---
 
@@ -307,7 +307,3 @@ This task helped in understanding the practical implementation of functions, mod
 
 ---
 
-# Author
-
-**Shalini Sengar**  
-MCA Student
